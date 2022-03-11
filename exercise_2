@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<title lang="en">
+<head>
+  <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>My Second Web Page</h1>
+    <h2>My Favorite Fruit</h2>
+    <ul>
+      <li>apples</li>
+      <li>bananas</li>
+      <li>pineapple</li>
+    </ul>
+    <table>
+      <tr>
+        <th>Month</th>
+        <th>Rent</th>
+        <th>Eating Out</th>
+        <th>Grories</th>
+      </tr>
+      <tr>
+        <td>August</td>
+        <td>$1000</td>
+        <td>$150</td>
+        <td>$360</td>
+      </tr>
+    </table>
+  </body>
+  </html>
